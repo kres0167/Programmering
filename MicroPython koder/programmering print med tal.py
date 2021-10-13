@@ -1,0 +1,11 @@
+print("Nu skal vi tælle vores komponenter:")
+print("Outputs", 25 + 30 /6)
+print("Inputs", 100 - 25 * 3 / 4)
+print("Nu tæller vi også lige dupont-kablerne:")
+print(3 + 2 + 1 - 5 +4 * 2 - 1 / 4 + 6)
+print("Er dedt sandt at 3 + 2 < 5 - 7?")
+print(3 + 2 < 5 - 7)
+print(90 % 70)
+print(2^2 + 7)
+
+print(33*3 / 2*(40))
